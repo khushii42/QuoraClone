@@ -1,0 +1,65 @@
+.head{
+    background-color: red;
+    color: white;
+    text-align: center;
+    border : 2px solid rgb(191, 20, 20)
+}
+.posts{
+    padding: 20px;
+    margin:20px;
+    background-color: blanchedalmond;
+    border: 2px solid navajowhite;
+}
+.user{
+    font-style: italic;
+}
+
+.new{
+ text-decoration: none;
+    border: 2px solid black;
+    margin:15px;
+    padding: 5px;
+    color: #000;
+    border-radius: 5px;
+
+}
+.btn{
+    background-color: rgb(242, 227, 166);
+    text-decoration: none;
+    border: 2px solid rgb(243, 204, 145);
+    padding:5px;
+    color: #000;
+    margin: 2px;
+}
+.btn:hover{
+    background-color: rgb(241, 221, 188);
+    box-shadow: 2px 2px 2px rgb(194, 180, 160);
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.new:hover{
+    background-color: rgb(216, 216, 216);
+    box-shadow: 2px 2px 2px rgb(12, 20, 18);
+    font-weight: 600;
+}
+#details{
+    color: #e8eeea;
+    background-color: rgb(16, 59, 16);
+    text-align: center;
+}
+#edit{
+    background-color: rgb(42, 94, 134);
+    color: white;
+    text-align: center;
+    border : 2px solid rgb(21, 15, 15)
+
+}
+
+textarea{
+            height: 200px;
+            width: 300px;
+            border: 2px solid black;
+            text-align: center;
+            font-size: larger;
+        }
